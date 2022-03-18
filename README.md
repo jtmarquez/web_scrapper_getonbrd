@@ -9,5 +9,5 @@ Add job posting dates.
 I'm interested in following the evolution in developer/software engineers and data science jobs offered in Chile, this will allow me to track the data and then make meaningfull insights.
 
 ## By José Tomás Márquez
-## [My Linkedin](https://www.linkedin.com/in/josetomasmarquezbischoff/)
+### [My Linkedin](https://www.linkedin.com/in/josetomasmarquezbischoff/)
 
