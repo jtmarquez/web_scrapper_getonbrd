@@ -8,7 +8,7 @@ The scrapper gets all the job titles from featured and non-featured jobs offered
 ☐   Data analysis
 
 # Why?
-I'm interested in following the evolution in developer/software engineers and data science jobs offered in Chile, this will allow me to track the data and then make meaningfull insights.
+I'm interested in following the evolution in developer/software engineers and data science jobs offered in Chile, this will allow me to track the data and then make meaningful insights.
 
 ## By José Tomás Márquez
 ### [My Linkedin](https://www.linkedin.com/in/josetomasmarquezbischoff/)
