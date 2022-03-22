@@ -3,7 +3,8 @@ A simple web scraper for get_on_brd webpage using request, BeautifulSoup and pan
 The scrapper gets all the job titles from featured and non-featured jobs offered on getonbrd, and then saves them as a csv file.
 
 # TO-DO
-✅  Add job posting dates.
+✅  Add job posting dates.  
+
 ☐   Data analysis
 
 # Why?
